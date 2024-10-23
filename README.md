@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as [Freelancer](https://tehranbayram.website/)
 
-- 🌱 I’m currently learning **Next js, React Native**
+- 🌱 I’m currently learning **Next js, React Js & Next Js**
 
 - 👨‍💻 All of my projects are available at [https://tehranbayram.website/](https://tehranbayram.website/)
 
