@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Tehran Bayram</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working as [Freelancer](https://tehranbayram.website/)
+- 🔭 I’m currently working as [Freelancer](https://saytpro.az/)
 
 - 🌱 I’m currently learning **Next js, React Js & Next Js**
 
-- 👨‍💻 All of my projects are available at [https://tehranbayram.website/](https://tehranbayram.website/)
+- 👨‍💻 All of my projects are available at [https://tehranbayram.website/](https://saytpro.az/)
 
 - 💬 Ask me about **JAVASCRIPT,REACT**
 
